@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Check Tweet</string>
+
+    <string name="share">Share</string>
+    <string name="running">running</string>
+
+    <string name="intro_title_0">Application intro</string>
+    <string name="intro_description_0">Check Tweet app works from the quick settings tile. To use it, its tile needs to be added on notification panel manually. This intro shows basic method to add tile.</string>
+
+    <string name="intro_title_1">Enter editing tile mode</string>
+    <string name="intro_description_1">Pull the notification panel and tap the edit button.</string>
+
+    <string name="intro_title_2">Find the tile for Check Tweet app</string>
+    <string name="intro_description_2">Scroll down and find the Check Tweet tile.</string>
+
+    <string name="intro_title_3">Add Check Tweet tile</string>
+    <string name="intro_description_3">Drag the tile to the desired position.</string>
+
+    <string name="intro_title_4">Fact Check!</string>
+    <string name="intro_description_4">After adding tile, simply click the tile to check if the tweet is real or fake.</string>
+
+    <string name="screen_captured_permission_missing">Permission required in order to capture screenshots.</string>
+
+    <string name="action_introduction">Introduction</string>
+    <string name="action_setting">Setting</string>
+    <string name="action_about">About</string>
+
+    <string name="setting_delay">Delay time (ms)</string>
+    <string name="setting_delay_description">Delay time after clicking tile</string>
+
+    <string name="about_version_tag">Version:\u0020</string>
+    <string name="about_version">1.0.0</string>
+    <string name="about_author_tag">Author:\u0020</string>
+    <string name="about_author">Sneha</string>
+    <string name="about_contact">Contact Me</string>
+    <string name="about_web_tag">Visit my website</string>
+    <string name="about_rate">Rate</string>
+</resources>
